@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Atolls GDC">
+		<Package name="ui texts">
+				<Container name="DLC menu">
+						<Key ID="STR_ATOLLSGDC_UI_OVERVIEW">
+								<Original>A 5x5 islands terrain, tribute to Grèce De Canards community on Arma. Three main islands and a few small ones.</Original>
+								<French>Un terrain de 5x5 km composé de trois grandes îles principales et de plusieurs autres petites. Ceci est un hommage à la communauté Grèce De Canards sur Arma.</French>
+						</Key>
+						</Key>
+				</Container>
+		</Package>
+		<Package name="location names">
+				<Container name="human infrastructures">
+						<Key ID="STR_ATOLLSGDC_LOCATION_ECOLE">
+								<Original>The old school</Original>
+								<French>La Vieille école</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_PORT_MIGOYAN">
+								<Original>Port Migoyan</Original>
+								<French>Port Migoyan</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_QG">
+								<Original>General Bolle HQ</Original>
+								<French>QG du Général Bolle</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_CABANE_CHASSEURS">
+								<Original>Hunter's cabin</Original>
+								<French>Cabane des chasseurs</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_SHINRIEL">
+								<Original>Shinriel</Original>
+								<French>Shinriel</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_FERME_AKUSERU">
+								<Original>Akuseru Farm</Original>
+								<French>Ferme d'Akuseru</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_WOAMI">
+								<Original>Woami</Original>
+								<French>Woami</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_GOYAHKA">
+								<Original>Goyahka</Original>
+								<French>Goyahka</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_FORT_BRUNO">
+								<Original>Fort Bruno</Original>
+								<French>Fort Bruno</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_FORT_ASHRAK">
+								<Original>Fort Ashrak</Original>
+								<French>Fort Ashrak</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_FORT_PATXIE">
+								<Original>Fort Patxie</Original>
+								<French>Fort Patxie</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ISOKINO">
+								<Original>Isokino</Original>
+								<French>Isokino</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_CALE_SETCH">
+								<Original>Cale Setch</Original>
+								<French>Cale Setch</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_WELDRID_AIRFIELD">
+								<Original>Weldrid Airfield</Original>
+								<French>Weldrid Aérodrome</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_KADDOSH">
+								<Original>Kaddosh</Original>
+								<French>Kaddosh</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_RELAI_NAAD">
+								<Original>Naad's relay</Original>
+								<French>Relai de Naad</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_TEMPLE_NEMO">
+								<Original>Nemo Temple</Original>
+								<French>Temple à Nemo</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_MANOIR_BEN">
+								<Original>Ben's Manor</Original>
+								<French>Manoir de Ben</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_REDEMPTION_BEZBOUL">
+								<Original>Bezboul's redemption</Original>
+								<French>Rédemption de Bezboul</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_CACHE_SCARLOK">
+								<Original>Scarlok's cache</Original>
+								<French>Cache de Scarlok</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_PATA">
+								<Original>Pata</Original>
+								<French>Pata</French>
+						</Key>
+				</Container>
+				<Container name="ground locations">
+						<Key ID="STR_ATOLLSGDC_LOCATION_MONT_SARDO">
+								<Original>Mount Sardo</Original>
+								<French>Mont Sardo</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ENFER_BLUTH">
+								<Original>Bluth's Hell</Original>
+								<French>L'enfer de Bluth</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_NIPASASSE">
+								<Original>Nipasasse</Original>
+								<French>Nipasassé</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_PLAINTE_JAY">
+								<Original>Jaystaff's complaint</Original>
+								<French>La plainte de Jaystaff</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_IZU">
+								<Original>Izu</Original>
+								<French>Izu</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_BOUCHON_TANIN">
+								<Original>Bouchon de Tanin</Original>
+								<French>Bouchon de Tanin</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_GISANT_SHARKO">
+								<Original>Sharko's Skerry</Original>
+								<French>Écueil de Sharko</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_CRETE_DRANAC">
+								<Original>Dranac's Ridge</Original>
+								<French>Crêtes de Dranac</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_FORET_MYSTERY">
+								<Original>Mystery Forest</Original>
+								<French>Forêt des mystères</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_CAP_GUERRIER">
+								<Original>Warrior's cape</Original>
+								<French>Cap du guerrier</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_POINTE_SUEDOIS">
+								<Original>Swedish point</Original>
+								<French>Pointe des Suédois</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_RANDOM_ISLAND">
+								<Original>Random island</Original>
+								<French>L'île hasardeuse</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_OPOSSUM">
+								<Original>Opossum</Original>
+								<French>L'Opossum</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_PLAGE_BITUM">
+								<Original>Bitum beach</Original>
+								<French>Plage du bitum</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_MORBAKOS">
+								<Original>Gisant de Morbales</Original>
+								<French>Gisant de Morbales</French>
+						</Key>
+				</Container>
+				<Container name="sea locations">
+						<Key ID="STR_ATOLLSGDC_LOCATION_RAZ_SCHMURF">
+								<Original>Raz de Schmurf</Original>
+								<French>Raz de Schmurf</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_BAIE_GUERZENE">
+								<Original>Guerzene Bay</Original>
+								<French>Baie de Guerzené</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ANSE_FREEZBE">
+								<Original>Freezbe cove</Original>
+								<French>Anse du Freezbe</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_PASSE_NICO">
+								<Original>Nico's pass</Original>
+								<French>Passe de Nico</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ETANG_GRENOUILLES">
+								<Original>Froggy Pond</Original>
+								<French>Etang des grenouilles</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_SEE_GAN">
+								<Original>Sea Gan</Original>
+								<French>Mer de Gan</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ECOLE">
+								<Original>rien</Original>
+								<French>rien</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ECOLE">
+								<Original>rien</Original>
+								<French>rien</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_ECOLE">
+								<Original>rien</Original>
+								<French>rien</French>
+						</Key>
+				</Container>
+				<Container name="wreck locations">
+						<Key ID="STR_ATOLLSGDC_LOCATION_ELDOUZE">
+								<Original>The Eldouze</Original>
+								<French>L'Eldouze</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_LILIAN">
+								<Original>The Ilian</Original>
+								<French>L'Ilian</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_LOOPING">
+								<Original>The Looping</Original>
+								<French>Le Looping</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_WILCO">
+								<Original>The Wilco</Original>
+								<French>Le Wilco</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOCATION_TOTOR">
+								<Original>The Totor</Original>
+								<French>Le Totor</French>
+						</Key>
+				</Container>
+		</Package>
+		<Package name="Loading texts">
+				<Container name="canards">
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_CANARDS">
+								<Original>The woods of these islands are the domain of a unique species of both mischievous and discreet wild ducks.</Original>
+								<French>Les bois de ces îles sont le domaine d'une espèce unique de canards sauvages aussi bien espiègles que discrets.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_BRETONS">
+								<Original>The atolls were discovered in the 16th century by Breton navigators but the archipelago was already inhabited since immemorial time.</Original>
+								<French>Les atolls furent découverts au 16e siècle par des navigateurs bretons mais l'archipel était déjà habité depuis des temps immémoriaux.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_SARDO">
+								<Original>Standing at 45 meters above the sea, Mount Sardo is the highest point of the archipelago.</Original>
+								<French>Du haut de ses 45 mètres, le Mont Sardo est le point culminant de l'archipel.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_PISTE">
+								<Original>The airstrip was created by the Japanese in 1942 to serve as a rescue airfield for stranded aviators.</Original>
+								<French>La piste d'aviation fût crée par les japonais en 1942 pour servir d'aérodrome de secours aux aviateurs en détresse.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_MIGOYAN">
+								<Original>Port Migoyan is the main entry point on the archipelago.</Original>
+								<French>Port Migoyan est le principal point d'entrée sur l'archipel.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_ECOLE">
+								<Original>At the old school you get trained to the handling of the Doudou3000 hand grenade.</Original>
+								<French>A la Vieille école, on forme et on déforme au maniement de la Doudou3000 et à la pseudo ligne delta regroupé flèche.</French>
+						</Key>
+						<Key ID="STR_ATOLLSGDC_LOADINGTEXT_CHASSE">
+								<Original>Wild ducks are the favorite prey of the island's hunters but they are very hard to find.</Original>
+								<French>Les canards sauvages sont la proie favorite des chasseurs de l'île mais ils sont très durs à débusquer.</French>
+						</Key>
+				</Container>
+		</Package>
+</Project>
